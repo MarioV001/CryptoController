@@ -62,6 +62,16 @@ namespace crypto_metrics.Controllers
         public static Dictionary<string, string> NewListT = new Dictionary<string, string>();
         public static void ConvertCsvToJson(string filePath)
         {
+            try
+            {
+                if (!File.Exists(filePath))
+                    throw new FileNotFoundException();
+            }
+            catch (FileNotFoundException)
+            {
+                throw new ArgumentException("Invalie Crypto Name!");
+
+            }
             var lines = System.IO.File.ReadAllLines(filePath);
             NewListT.Clear();
             // get header values
