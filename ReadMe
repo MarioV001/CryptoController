@@ -1,0 +1,10 @@
+The app will download all .CSV files on start up into "CSVFiles" folder from where the app is executed!
+
+Debugging:
+  Accesing the API by "https://localhost:44326/api/Crypto"
+  or using "https://localhost:44326/swagger/index.html"
+  
+
+The API takes one Queary string which by default is set to "ALL/bch/bnb/bsv/btc/eth/ltc/xrp"
+              which will generate/retrive all data for all the Cryptos
+              if manually changed to one of the cryptos shown, it will only show the single crypto.
