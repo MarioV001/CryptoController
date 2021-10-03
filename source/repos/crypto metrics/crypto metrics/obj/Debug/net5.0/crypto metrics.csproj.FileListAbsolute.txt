@@ -1,0 +1,30 @@
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\bin\Debug\net5.0\appsettings.json
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\bin\Debug\net5.0\crypto metrics.exe
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\bin\Debug\net5.0\crypto metrics.deps.json
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\bin\Debug\net5.0\crypto metrics.runtimeconfig.json
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\bin\Debug\net5.0\crypto metrics.runtimeconfig.dev.json
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\bin\Debug\net5.0\crypto metrics.dll
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\bin\Debug\net5.0\ref\crypto metrics.dll
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\bin\Debug\net5.0\crypto metrics.pdb
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\crypto metrics.csproj.AssemblyReference.cache
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\crypto metrics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\crypto metrics.AssemblyInfoInputs.cache
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\crypto metrics.AssemblyInfo.cs
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\crypto metrics.csproj.CoreCompileInputs.cache
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\crypto metrics.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\crypto metrics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\staticwebassets\crypto metrics.StaticWebAssets.Manifest.cache
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\staticwebassets\crypto metrics.StaticWebAssets.xml
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\scopedcss\bundle\crypto metrics.styles.css
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\crypto metrics.RazorTargetAssemblyInfo.cache
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\crypto metrics.csproj.CopyComplete
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\crypto metrics.dll
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\ref\crypto metrics.dll
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\crypto metrics.pdb
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\obj\Debug\net5.0\crypto metrics.genruntimeconfig.cache
+C:\Users\artha\source\repos\crypto metrics\crypto metrics\bin\Debug\net5.0\Newtonsoft.Json.dll
